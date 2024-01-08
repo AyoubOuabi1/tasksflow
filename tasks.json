@@ -1,0 +1,104 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "Description for Task 1",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-10",
+      "status": "TO_DO",
+      "assigneeId": 101,
+      "createdById": 201
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "Description for Task 2",
+      "startDate": "2022-02-01",
+      "endDate": "2022-02-15",
+      "status": "IN_PROGRESS",
+      "assigneeId": 102,
+      "createdById": 202
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "Description for Task 3",
+      "startDate": "2022-03-01",
+      "endDate": "2022-03-20",
+      "status": "DONE",
+      "assigneeId": 103,
+      "createdById": 203
+    },
+    {
+      "id": 4,
+      "title": "Task 4",
+      "description": "Description for Task 4",
+      "startDate": "2022-04-01",
+      "endDate": "2022-04-10",
+      "status": "TO_DO",
+      "assigneeId": 104,
+      "createdById": 204
+    },
+    {
+      "id": 5,
+      "title": "Task 5",
+      "description": "Description for Task 5",
+      "startDate": "2022-05-01",
+      "endDate": "2022-05-15",
+      "status": "IN_PROGRESS",
+      "assigneeId": 105,
+      "createdById": 205
+    },
+    {
+      "id": 6,
+      "title": "Task 6",
+      "description": "Description for Task 6",
+      "startDate": "2022-06-01",
+      "endDate": "2022-06-20",
+      "status": "DONE",
+      "assigneeId": 106,
+      "createdById": 206
+    },
+    {
+      "id": 7,
+      "title": "Task 7",
+      "description": "Description for Task 7",
+      "startDate": "2022-07-01",
+      "endDate": "2022-07-10",
+      "status": "TO_DO",
+      "assigneeId": 107,
+      "createdById": 207
+    },
+    {
+      "id": 8,
+      "title": "Task 8",
+      "description": "Description for Task 8",
+      "startDate": "2022-08-01",
+      "endDate": "2022-08-15",
+      "status": "IN_PROGRESS",
+      "assigneeId": 108,
+      "createdById": 208
+    },
+    {
+      "id": 9,
+      "title": "Task 9",
+      "description": "Description for Task 9",
+      "startDate": "2022-09-01",
+      "endDate": "2022-09-20",
+      "status": "DONE",
+      "assigneeId": 109,
+      "createdById": 209
+    },
+    {
+      "id": 10,
+      "title": "Task 10",
+      "description": "Description for Task 10",
+      "startDate": "2022-10-01",
+      "endDate": "2022-10-10",
+      "status": "TO_DO",
+      "assigneeId": 110,
+      "createdById": 210
+    }
+  ]
+}
